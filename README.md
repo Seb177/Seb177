@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrey Volkov
-- 👀 I’m interested in (pair) trading, crypto.
-- 🌱 I’m currently learning Python, ML.
+- 👀 I’m interested in (pair) trading, HFT/MFT, crypto.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on quant trading.
 
 
